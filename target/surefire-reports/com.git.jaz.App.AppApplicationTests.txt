@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.git.jaz.App.AppApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.973 s -- in com.git.jaz.App.AppApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.078 s -- in com.git.jaz.App.AppApplicationTests
